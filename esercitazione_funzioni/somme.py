@@ -1,5 +1,5 @@
 import math as mt
-def somma_prodotto_n_numeri(n):
+def somma__n_numeri(n):
      somma=0
      for i in range(1, n+1):
           somma = somma+i
