@@ -15,6 +15,6 @@ def somma_radici(n):
      #somma1 = (n*(n+1))/2
     # somma2 = int(somma1)
      #return somma2
-print('Ecco la somma dei numeri naturali: ',  somma_n_numeri(10))
-print('Ecco la somma delle radici dei numeri naturali: ', somma_radici(2))
+#print('Ecco la somma dei numeri naturali: ',  somma_n_numeri(10))
+#print('Ecco la somma delle radici dei numeri naturali: ', somma_radici(2))
 #print(somma_n_numeri2(10))
