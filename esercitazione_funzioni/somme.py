@@ -1,5 +1,5 @@
 import math as mt
-def somma__n_numeri(n):
+def somma_n_numeri(n):
      somma=0
      for i in range(1, n+1):
           somma = somma+i
@@ -24,7 +24,8 @@ def sommatoria_potenze_alfa(n,a=1):
      sommatoria=0
      for i in range(0, n+1):
           sommatoria=sommatoria+mt.pow(i, a)
-     return sommatoria
+     sommatoria1 = int(sommatoria)
+     return sommatoria1
      
 #def somma_n_numeri2(n):
      #somma1 = (n*(n+1))/2
